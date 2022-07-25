@@ -17,6 +17,7 @@ This project is a starting point for a Flutter application.
 ## ScreenShot
 
 ![Screenshot_1658753214](https://user-images.githubusercontent.com/62237000/180781715-9b53ddf5-0dad-477d-b55e-ff4a371e6b18.png)
+![Screenshot_1658753208](https://user-images.githubusercontent.com/62237000/180782257-e6e1d5bb-54b9-48fd-b216-d1655c054dbb.png)
 
 
 A few resources to get you started if this is your first Flutter project:
