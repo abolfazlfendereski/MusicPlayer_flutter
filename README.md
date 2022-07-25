@@ -1,6 +1,13 @@
 # music_player
 
-A new Flutter project.
+musicplayer
+made with flutter and dart
+background play 
+justaudio
+Play Online music
+the beautiful Design 
+use material in this Project
+
 
 ## Getting Started
 
